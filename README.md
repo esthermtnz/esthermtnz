@@ -1,4 +1,6 @@
-ther### Hi there 👋
+Hi there 👋
+
+My name is Esther and I'm a Computer Science Engineering Student at the Autonomous University of Madrid (UAM).
 
 <!--
 **esthermtnz/esthermtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
