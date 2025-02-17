@@ -1,4 +1,4 @@
-# Esther Martínez | Computer Engineering Student
+# Esther Martínez | Computer Science Engineering Student
 
 
 ## 🚀 About Me: 
