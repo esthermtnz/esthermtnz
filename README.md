@@ -19,4 +19,4 @@ In this section, you can explore some of the projects I’ve worked on. Each one
 - LinkedIn: ([Esther Martinez - LinkedIn Profile](https://www.linkedin.com/in/esther-mart%C3%ADnez-blanco-8744b5306/))
 - Email: emtnezblanco@gmail.com
 
-Feel free to check out my projects! 🚀
+Feel free to check out my projects and connect! 🚀
